@@ -21,8 +21,7 @@ This project demonstrates pre-aggregated data extraction using **SQL** and multi
 
 * **4. Geographic User Distribution vs. Watch Time:**
   * India leads in total user volume (**6,933 registered students**), followed by the United States (**4,768 registered students**). 
-  * **Non-Proportional Scaling:** User counts do *not* scale proportionally with watch time. While India has more total users, United States learners generate the highest total watch time (**~449,000 minutes** vs. **~181,000 minutes** for India), showing a much higher average watch duration per user in North America.
-  * 
+  * **Non-Proportional Scaling:** User counts do *not* scale proportionally with watch time. While India has more total users, United States learners generate the highest total watch time (**~449,000 minutes** vs. **~181,000 minutes** for India), showing a much higher average watch duration per user in North America. 
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
