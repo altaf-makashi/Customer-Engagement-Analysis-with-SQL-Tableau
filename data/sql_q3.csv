@@ -1,0 +1,3 @@
+student_type,total_registered_students,active_watching_students,total_minutes_watched,avg_minutes_per_registered_student,avg_minutes_per_active_student
+Free,33095,16130,446552.29999999795,13.49,27.68
+Paying,2135,2026,1389035.8,650.6,685.61

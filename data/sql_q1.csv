@@ -1,0 +1,47 @@
+course_title,total_students,total_minutes_watched,avg_rating,num_ratings
+"Introduction to Data and Data Science",8525,333265.9000000006,4.86,572
+SQL,1624,234824.80000000054,4.82,125
+Statistics,2003,193279.6000000006,4.81,215
+"Introduction to Excel",2420,164472.0999999999,4.78,242
+"Python Programmer Bootcamp",1139,155164.3,4.82,101
+"Data Strategy",1395,102887.49999999993,4.73,154
+"The Complete Data Visualization Course with Python, R, Tableau, and Excel",548,68921.99999999993,4.71,34
+"Data Literacy",394,51092.20000000006,4.79,72
+"Introduction to Tableau",611,50405.50000000001,4.63,40
+"Data Preprocessing with NumPy",269,44323.799999999945,4.90,31
+Probability,436,42522.20000000004,4.67,61
+"Data Analysis with Excel Pivot Tables",741,38020.99999999997,4.84,90
+"Machine Learning in Python",728,37793.199999999975,4.81,42
+"Power BI",571,34077.79999999998,4.60,47
+"Introduction to R Programming",245,28008.90000000001,4.88,25
+"Data Cleaning and Preprocessing with pandas",369,25411.99999999999,4.62,53
+"Introduction to Python",671,25355.499999999978,4.73,100
+"Introduction to Jupyter",550,20050.69999999997,4.93,57
+"Credit Risk Modeling in Python",404,19716.30000000001,4.71,17
+"Deep Learning with TensorFlow 2",191,15436.700000000004,4.77,13
+"Advanced Microsoft Excel",284,14894.600000000004,4.86,50
+"Introduction to Business Analytics",217,13391.90000000001,4.36,14
+Mathematics,403,12521.099999999988,4.85,60
+"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",282,12175.900000000007,4.81,21
+"Time Series Analysis with Python",170,11573.000000000007,4.64,11
+"Web Scraping and API Fundamentals in Python",215,11026.599999999993,4.55,11
+"SQL for Data Science Interviews",690,10072.500000000025,4.75,16
+"Product Management for AI & Data Science",164,8862.600000000004,4.82,17
+"Customer Analytics in Python",135,8137.4000000000015,5.00,11
+"Git and GitHub",229,6539.500000000002,4.98,41
+"SQL + Tableau + Python",132,4938.000000000001,5.00,7
+"Convolutional Neural Networks with TensorFlow in Python",56,4125.6,4.75,4
+"A/B Testing in Python",133,3989.100000000001,4.75,12
+"Python for Finance",97,3908.7999999999997,4.60,10
+"SQL + Tableau",169,3498.699999999996,4.81,26
+"Linear Algebra and Feature Selection",70,3280,4.86,7
+"Fashion Analytics with Tableau",77,3261.7999999999997,4.45,11
+"Machine Learning in Excel",63,2587.599999999999,4.67,6
+"Machine Learning with Naive Bayes",85,2454.4999999999977,4.71,17
+"Machine Learning with Decision Trees and Random Forests",55,2431.4,4.78,18
+"Machine Learning with Support Vector Machines",52,1741.6999999999996,4.82,11
+"AI Applications for Business Success",35,1262.3,4.25,4
+"Machine Learning with K-Nearest Neighbors",42,1247.3,4.73,15
+"Dates and Times in Python",33,1246.1,4.88,8
+"Data-Driven Business Growth",41,735.7000000000002,1.00,1
+"Machine Learning with Ridge and Lasso Regression",20,652.4000000000001,NULL,NULL
